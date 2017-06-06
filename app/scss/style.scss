@@ -1,0 +1,19 @@
+body{
+    background: gray;
+}
+
+ul li.checked {
+    background: #888;
+    color: red;
+    text-decoration: line-through;
+}
+
+ul li {
+    cursor: pointer;
+    padding: 12px 8px 12px 40px;
+    font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
