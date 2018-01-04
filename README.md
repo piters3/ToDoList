@@ -1,10 +1,10 @@
 # ToDoList
 
-A simple to do list 
+A simple todo list created in HTML, CSS and TypeScript.
 
 ### Prerequisites
 
-This project is created with gulp which is using: ts, sass, watch and browserSync
+This project is build with gulp which is using: ts, sass, watch and browserSync
 
 ### Installing
 
@@ -16,4 +16,4 @@ npm install
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
